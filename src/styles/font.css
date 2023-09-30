@@ -1,0 +1,7 @@
+
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/CatamaranRomanExtraBold.ttf"); font-family : "Catamaran"; font-weight : 800;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/CatamaranRomanSemiBold.ttf"); font-family : "Catamaran"; font-weight : 600;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/CatamaranRomanRegular.ttf"); font-family : "Catamaran"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/CatamaranRomanBold.ttf"); font-family : "Catamaran"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/QuicksandBold.ttf"); font-family : "Quicksand"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/CatamaranRomanMedium.ttf"); font-family : "Catamaran"; font-weight : 500;  }
